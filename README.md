@@ -39,8 +39,8 @@ Ensure you have the following installed on your system before proceeding:
 For the easiest setup, simply run the interactive installation script included in this repository!
 
 ```bash
-git clone https://github.com/yourusername/quickshell-dotfiles.git
-cd quickshell-dotfiles
+git clone https://github.com/TheAK12/Aurora-Shell.git
+cd Aurora-Shell/quickshell/
 chmod +x install.sh
 ./install.sh
 ```
